@@ -1,0 +1,4 @@
+﻿title: "Alpha: RSI Mean Reversion"
+theme: minima
+plugins:
+  - jekyll-seo-tag
