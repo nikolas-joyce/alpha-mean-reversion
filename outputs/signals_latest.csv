@@ -15,9 +15,14 @@ date,ticker,direction,alpha_name
 2017-11-14,HYG,1,alpha_mean_reversion
 2017-11-15,HYG,1,alpha_mean_reversion
 2017-11-16,HYG,1,alpha_mean_reversion
+2018-02-06,IWM,1,alpha_mean_reversion
 2018-02-06,SPY,1,alpha_mean_reversion
+2018-02-09,IWM,1,alpha_mean_reversion
 2018-02-09,SPY,1,alpha_mean_reversion
 2018-03-26,XLF,1,alpha_mean_reversion
+2018-10-08,IWM,1,alpha_mean_reversion
+2018-10-09,IWM,1,alpha_mean_reversion
+2018-10-10,IWM,1,alpha_mean_reversion
 2018-10-11,HYG,1,alpha_mean_reversion
 2018-10-11,QQQ,1,alpha_mean_reversion
 2018-10-11,SPY,1,alpha_mean_reversion
@@ -42,6 +47,7 @@ date,ticker,direction,alpha_name
 2021-01-14,USO,-1,alpha_mean_reversion
 2021-01-15,USO,-1,alpha_mean_reversion
 2021-06-21,XLF,1,alpha_mean_reversion
+2021-07-20,IWM,1,alpha_mean_reversion
 2021-07-20,XLE,1,alpha_mean_reversion
 2021-10-05,QQQ,1,alpha_mean_reversion
 2022-01-21,VNQ,1,alpha_mean_reversion
@@ -53,6 +59,7 @@ date,ticker,direction,alpha_name
 2022-01-27,VNQ,1,alpha_mean_reversion
 2022-06-21,XLE,1,alpha_mean_reversion
 2022-08-01,VNQ,-1,alpha_mean_reversion
+2022-08-09,IWM,-1,alpha_mean_reversion
 2022-12-05,TLT,-1,alpha_mean_reversion
 2022-12-08,TLT,-1,alpha_mean_reversion
 2022-12-09,TLT,-1,alpha_mean_reversion
