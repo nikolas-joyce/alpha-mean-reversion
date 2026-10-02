@@ -74,3 +74,4 @@ date,ticker,direction,alpha_name
 2026-06-25,USO,1,alpha_mean_reversion
 2026-06-29,USO,1,alpha_mean_reversion
 2026-09-16,HYG,1,alpha_mean_reversion
+2026-09-30,XLF,1,alpha_mean_reversion
