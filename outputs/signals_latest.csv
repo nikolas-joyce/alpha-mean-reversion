@@ -60,7 +60,11 @@ date,ticker,direction,alpha_name
 2022-06-21,XLE,1,alpha_mean_reversion
 2022-08-01,VNQ,-1,alpha_mean_reversion
 2022-08-09,IWM,-1,alpha_mean_reversion
+2022-12-05,TLT,-1,alpha_mean_reversion
+2022-12-08,TLT,-1,alpha_mean_reversion
+2022-12-09,TLT,-1,alpha_mean_reversion
 2024-04-22,QQQ,1,alpha_mean_reversion
+2024-10-15,TLT,1,alpha_mean_reversion
 2025-03-12,XLF,1,alpha_mean_reversion
 2025-03-13,XLF,1,alpha_mean_reversion
 2025-03-14,XLF,1,alpha_mean_reversion
